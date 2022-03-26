@@ -11,6 +11,7 @@
             neem verantwoordelijkheid wanneer nodig. Ik ben enthousiast en kan goed in teamverband werken. Bovendien ben
             ik sociaal en heel representatief.</p>
           <button class="btn btn-primary"><a href="mailto:Alaa2ooo990@gmail.com">E-mail</button></a>
+          <button class="btn btn-primary"><a href="http://linkedin.com/in/alaa-alkatlabe-086549222">LinkedIn</button></a>
         </div>
       </div>
     </div>

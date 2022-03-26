@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="stylesheet" href="/css/about.css" />
 
@@ -39,7 +40,7 @@
 
     <div class="col-md-9 mb-md-0 mb-5">
 
-        <form action="" method="POST" autocomplete="off">
+        <form action="contact.php" method="POST" autocomplete="off">
 
             <div class="row">
                 <div class="col-md-12">
@@ -78,8 +79,6 @@
                     <li><i class="fas fa-map-marker-alt fa-2x"></i><br>
                     <br> <p>Tinwerf 16, 2544ED Den Haag, NL</p>
                     </li>
-
-
 
                     <li><i class="fas fa-envelope mt-4 fa-2x"></i><br>
                     <br><p>contact@Alkatlabe.com</p>
